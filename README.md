@@ -160,7 +160,7 @@ Exemplos de rotas implementadas:
 
 ## 🔮 Melhorias futuras
 
-- Integração completa com banco de dados
+- Expansão da estrutura de dados e relacionamentos
 - Autenticação e autorização com JWT
 - Validação robusta de payloads
 - Paginação e filtros avançados
