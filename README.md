@@ -79,7 +79,6 @@ Crie um arquivo `.env` na raiz do projeto com as variáveis necessárias. Exempl
 ```env
 PORT=3001
 DATABASE_URL="file:./dev.db"
-JWT_SECRET="sua_chave_secreta"
 ```
 
 ---
